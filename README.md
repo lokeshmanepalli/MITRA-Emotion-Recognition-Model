@@ -1,1 +1,1 @@
-# MITRA-Emotion-Recognition-Model
+![MITRA Architecture](MITRA_Architecture.png)
